@@ -32,3 +32,6 @@ Info on my adventures with AnyCubic resin printers
 - Paper towels to rest things on - but NOT for cleaning - they are more abrasive than you imagine and leave bits behind
 - Chux Superwipes (or cheap copies) for actual cleaning of plates and FEP film - no scratches, so bits left behind
 - Tried tissues (awful), tried laboratory wipes (Kimwipes delicate task wipes, lint free) - awful, abrasive and not lint free
+- Eye protection
+- Nitrile disposable gloves - better than latex, last quite a few uses
+- 
