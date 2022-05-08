@@ -38,4 +38,9 @@ Info on my adventures with AnyCubic resin printers
 - Tried tissues (awful), tried laboratory wipes (Kimwipes delicate task wipes, lint free) - awful, abrasive and not lint free
 - Eye protection
 - Nitrile disposable gloves - better than latex, last quite a few uses
-- 
+
+# Print cleanup
+- remove WhamBam plate, scrape excess resin into bath and put straight into Wash and Cure station bucket, wash for 10 min
+- drain IPA and flex plate to remove - 'pops off'
+- wash in warm water to help with support removal
+- use forceps or small pliers to break away bases of supports and allow removal without breaking the print
