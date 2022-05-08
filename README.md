@@ -1,6 +1,10 @@
 # AnyCubic
 Info on my adventures with AnyCubic resin printers
 
+# Printer model details
+- Anycubic MonoX 6k
+- Wash and cure station +
+
 # In no particular order...
 - the slicer which comes with the printer is 'average'
 - tried several options and landed on Lychee Slicer, free version
