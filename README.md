@@ -44,3 +44,9 @@ Info on my adventures with AnyCubic resin printers
 - drain IPA and flex plate to remove - 'pops off'
 - wash in warm water to help with support removal
 - use forceps or small pliers to break away bases of supports and allow removal without breaking the print
+
+# Resin
+- Currently using the Eco Resins from Anycubic
+
+# Resin coating
+- https://www.rowetrading.com.au/product/xtc-3dcoating-mini-69624/ - more for FDM than MSLA...
