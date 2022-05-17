@@ -51,3 +51,12 @@ Resin printing support settings from 3D Printing Pro - on [youtube](https://www.
 	Upper Diameter: 0.8/0.6
 	Lower Diameter: 1.5
 	Connection Length: 3.50
+	
+## Middle
+	Shape: Cylinder
+	Diameter: 1.50
+	Angle: 45
+	Small Pillar Shape: Sphere
+	Diameter: 1.5
+	Upper Depth: 0.6
+	Lower Depth: 0.6
