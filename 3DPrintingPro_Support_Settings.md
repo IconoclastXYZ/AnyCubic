@@ -1,7 +1,7 @@
 Resin printing support settings from 3D Printing Pro - on [youtube](https://www.youtube.com/watch?v=AIFRpG5V5vQ)
 
-#Light
-##Top
+# Light
+## Top
 -	Contact Diameter: 0.2
 -	Contact Depth: 0.1
 -	Connection Shape: Cone
@@ -9,7 +9,7 @@ Resin printing support settings from 3D Printing Pro - on [youtube](https://www.
 -	Lower Diameter: 1.0
 -	Connection Length: 3.00
 	
-##Middle
+## Middle
 	Shape: Cylinder
 	Diameter: 1.20
 	Small Pillar Shape: Sphere
@@ -18,15 +18,15 @@ Resin printing support settings from 3D Printing Pro - on [youtube](https://www.
 	Lower Depth: 0.4
 
 
-##Bottom
+## Bottom
 	Platform Touch Shape: Skate
 	Touch Diameter: 10
 	Thickness: 0.8
 	Model Contact Shape: 0.4
 	Contact Depth: 0.4
 	
-#Medium
-##Top
+# Medium
+## Top
 	Contact Diameter: 0.4
 	Contact Depth: 0.15
 	Connection Shape: Cone
