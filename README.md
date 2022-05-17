@@ -17,7 +17,7 @@ Info on my adventures with AnyCubic resin printers
 # Support settings
 - Mostly the automatic orientation and 'medium' supports work well from Lychee
 - Add a few extra 'heavy' supports at the bottom so that the print doesn't fall off before it has really started
-- More settings can be found [here](https://www.youtube.com/watch?v=AIFRpG5V5vQ)
+- More settings can be found [here](/3DPrintingPro_Support_Settings.md)
 
 # Layer exposure settings
 - 'Bottom layers' = 10 - that way when the Anycubic ramps down the exposure time it blends with the start of the supports above the raft - otherwise it all just falls off before it has even started
