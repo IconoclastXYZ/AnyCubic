@@ -2,12 +2,12 @@ Resin printing support settings from 3D Printing Pro - on [youtube](https://www.
 
 # Light
 ## Top
--	Contact Diameter: 0.2
--	Contact Depth: 0.1
--	Connection Shape: Cone
--	Upper Diameter: 0.2
--	Lower Diameter: 1.0
--	Connection Length: 3.00
+	Contact Diameter: 0.2
+	Contact Depth: 0.1
+	Connection Shape: Cone
+	Upper Diameter: 0.2
+	Lower Diameter: 1.0
+	Connection Length: 3.00
 	
 ## Middle
 	Shape: Cylinder
