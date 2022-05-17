@@ -45,10 +45,10 @@ Resin printing support settings from 3D Printing Pro - on [youtube](https://www.
 
 # Heavy
 ## Top
-	Contact Diameter: 0.8/0.6
+	Contact Diameter: 0.8/0.6 (first few most important / rest)
 	Contact Depth: 0.4
 	Connection Shape: Cone
-	Upper Diameter: 0.8/0.6
+	Upper Diameter: 0.8/0.6 (first few most important / rest)
 	Lower Diameter: 1.5
 	Connection Length: 3.50
 	
