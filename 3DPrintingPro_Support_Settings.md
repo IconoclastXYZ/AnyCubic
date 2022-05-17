@@ -34,7 +34,7 @@ Resin printing support settings from 3D Printing Pro - on [youtube](https://www.
 	Lower Diameter: 1.5
 	Connection Length: 4.00
 	
-Middle
+## Middle
 	Shape: Cylinder
 	Diameter: 1.50
 	Small Pillar Shape: Sphere
@@ -43,8 +43,8 @@ Middle
 	Lower Depth: 0.4
 
 
-Heavy
-Top
+# Heavy
+## Top
 	Contact Diameter: 0.8/0.6
 	Contact Depth: 0.4
 	Connection Shape: Cone
