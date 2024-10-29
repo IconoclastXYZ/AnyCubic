@@ -9,6 +9,10 @@ Info on my adventures with AnyCubic resin printers
 - the slicer which comes with the printer is 'average'
 - tried several options and landed on Lychee Slicer, free version
 
+# Some guides
+- [Settings for faster resin printing](https://ameralabs.com/blog/9-settings-to-change-for-faster-resin-3d-printing/)
+- [Tips for raft settings](https://ameralabs.com/blog/default-3d-printing-raft-settings/)
+
 # Raft settings
 - Default angled up edge raft from Lychee causes suction issues and comes off
 - Settled on circular
