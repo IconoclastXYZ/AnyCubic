@@ -22,7 +22,9 @@ Info on my adventures with AnyCubic resin printers
 - [Siraya Tech - numbered models](https://www.printables.com/model/982964-siraya-tech-numbered-test-models)
 - [TableFlip Foundry - Cones of Calibration](https://www.tableflipfoundry.com/3d-printing/the-cones-of-calibration-v3/)
 - [Phrozen XP2 - thin, numbered](https://www.printables.com/model/1021496-validation-matrix-v2-for-multiple-exposures-print)
-- 
+- [Phrozen XP - thicker, more complex](https://www.printables.com/model/1106173-8-up-phrozen-xp-finder-numbered-for-saturn-4-ultra)
+- [J3D-Tech Multicure calibration](https://cults3d.com/en/3d-model/tool/biuld-plate-calibraion-xl-designed-for-rerf-or-whatever), with a [guide on how to read them](https://docs.google.com/document/d/1aoMSE6GBGMcoYXNGfPP9s_Jg8vr1wQmmZuvqP3suago/edit?tab=t.0#heading=h.xl8mfgj07txw)
+- [J3D-Tech Boxes of Calibration](https://cults3d.com/en/3d-model/tool/j3d-tech-s-dimensional-calibration_v0-17), with a [guide on how to read them](https://docs.mango3d.io/doc/j3d-tech-s-guide-to-resin-printing/printer-calibration/boxes-of-calibration/)
 
 # Raft settings
 - Default angled up edge raft from Lychee causes suction issues and comes off
