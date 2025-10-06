@@ -4,6 +4,7 @@ Info on my adventures with AnyCubic resin printers
 # Printer model details
 - Anycubic MonoX 6k
 - Wash and cure station +
+- Anycubic Mono M7 (standard)
 
 # In no particular order...
 - the slicer which comes with the printer is 'average'
@@ -12,6 +13,16 @@ Info on my adventures with AnyCubic resin printers
 # Some guides
 - [Settings for faster resin printing](https://ameralabs.com/blog/9-settings-to-change-for-faster-resin-3d-printing/)
 - [Tips for raft settings](https://ameralabs.com/blog/default-3d-printing-raft-settings/)
+
+# Resin exposure calibration
+- [Good guide here]
+
+# Test prints
+- [Amerilabs - Town Model](https://ameralabs.com/blog/town-calibration-part/)
+- [Siraya Tech - numbered models](https://www.printables.com/model/982964-siraya-tech-numbered-test-models)
+- [TableFlip Foundry - Cones of Calibration](https://www.tableflipfoundry.com/3d-printing/the-cones-of-calibration-v3/)
+- [Phrozen XP2 - thin, numbered](https://www.printables.com/model/1021496-validation-matrix-v2-for-multiple-exposures-print)
+- 
 
 # Raft settings
 - Default angled up edge raft from Lychee causes suction issues and comes off
