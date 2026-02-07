@@ -56,6 +56,7 @@ Info on my adventures with AnyCubic resin printers
 - Tried tissues (awful), tried laboratory wipes (Kimwipes delicate task wipes, lint free) - awful, abrasive and not lint free
 - Eye protection
 - Nitrile disposable gloves - better than latex, last quite a few uses
+- [Filter funnel add-on](https://cults3d.com/en/3d-model/tool/filter-shelf-for-wb-ultim8-fun)
 
 # Print cleanup
 - remove WhamBam plate, scrape excess resin into bath and put straight into Wash and Cure station bucket, wash for 10 min
